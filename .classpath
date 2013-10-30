@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/apache-lucene.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/async-http-client-1.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/async-http-client-1.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/async-http-client-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/bliki-core-3.0.15.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/cassandra-all-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/cassandra-thrift-0.8.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/cloud9-1.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/cloud9-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/cloud9-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-cli-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-digester-1.6.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/commons-validator-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/gate-7.1-build4485-installer.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/geronimo-jms_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/gson-1.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/gson-1.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/gson-1.6.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/guava-r08.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/hadoop-core-0.20.2-320.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/hadoop-core-0.20.2.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/hadoop-mrunit-0.20.2-320.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/htmlparser-1.6.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jets3t-0.7.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jetty-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jetty-util-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jsp-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jsp-api-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/junit-4.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/junit-4.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/kfs-0.3.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/log4j-1.2.16-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/log4j-1.2.16-sources.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/lucene-core-4.0.0-ALPHA.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/lucene-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/netty-3.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/pcj-1.2.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/slf4j-simple-1.6.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/slf4j-simple-1.6.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="/Shopaholic_Index/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
